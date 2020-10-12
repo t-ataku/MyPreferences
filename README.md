@@ -1,0 +1,2 @@
+# MyPreferences
+macOS Preferences study
